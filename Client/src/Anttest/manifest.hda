@@ -1,0 +1,16 @@
+﻿<?hda version="12.2.1.0.0-Patches-2016-08-10 02:50:51Z-r146334" jcharset="UTF8" encoding="utf-8"?>
+@Properties LocalData
+ComponentName=SchreiberUtilities
+blDateFormat=M/d{/yy}{ h:mm[:ss]{ a}}!mAM,PM!tAmerica/Chicago
+@end
+@ResultSet Manifest
+2
+entryType
+location
+component
+SchreiberUtilities/SchreiberUtilities.hda
+componentExtra
+SchreiberUtilities/readme.txt
+componentClasses
+SchreiberUtilities/classes/
+@end

@@ -1,0 +1,41 @@
+﻿<?hda version="12.2.1.1.0-dbconfig-2016-06-08 09:41:01Z-r144331" jcharset="UTF8" encoding="utf-8"?>
+@Properties LocalData
+ComponentName=SchreiberUtilities
+blDateFormat=M/d{/yy}{ h:mm[:ss]{ a}}!mAM,PM!tAmerica/Chicago
+classpath=$COMPONENT_DIR/classes
+hasPreferenceData=0
+preventAdditionalComponentDowngrade=0
+version=2017_01_27-dev(build 1)
+@end
+@ResultSet Filters
+4
+type
+location
+parameter
+loadOrder
+@end
+@ResultSet MergeRules
+4
+fromTable
+toTable
+column
+loadOrder
+@end
+@ResultSet ResourceDefinition
+4
+type
+filename
+tables
+loadOrder
+service
+resources/schreiber_utilities_service.htm
+SchreiberUtilities_Services
+10
+@end
+
+@ResultSet ClassAliases
+3
+classname
+location
+loadOrder
+@end
